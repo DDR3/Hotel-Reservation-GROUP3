@@ -5,4 +5,4 @@
 # The following example assumes '@Username' should be the code owner for specific directories and file types.
 
 # To make '@Username' the default owner for everything in the repo
-*       @Niegas280430
+*       @DDR3
